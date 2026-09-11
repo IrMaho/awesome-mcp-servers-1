@@ -294,6 +294,7 @@ Official integrations are maintained by companies building production ready MCP 
 
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
+- **[TeleDOM](https://github.com/IrMaho/TeleDOM)** - Unified Browser Forensic Recorder, sub-millisecond DOM time-travel debugger, Chrome DevTools capability fusion, and 206-tool MCP server for AI coding agents.
 - **[AllInOneMCP](https://github.com/particlefuture/MCPDiscovery) - MCP of MCPs. A central hub for MCP servers. Helps you discover available MCP servers and learn how to install and use them. REMOTE! Use the url [https://mcp.pfvc.io/mcp/](https://mcp.pfvc.io/mcp/) to add the server. **Remember the final backslash\*\*.
 - **[Airtable](https://github.com/domdomegg/airtable-mcp-server)** - Read and write access to Airtable databases.
 - **[Agentset](https://github.com/agentset-ai/mcp-server)** - RAG MCP for your [Agentset](https://agentset.ai/) data.
@@ -574,6 +575,7 @@ A growing set of community-developed and maintained servers demonstrates various
 
 ## Frameworks
 
+- **[antigravity-base-mcp](https://github.com/IrMaho/antigravity-base-mcp)** - Enterprise-grade Base MCP Server Starter Kit for TypeScript & Node.js with Zod validation, isolated Stdio transport, and autonomous on-demand bootstrapping.
 - **[create-mcp-ts](https://github.com/stephencme/create-mcp-ts)** - Create a new MCP server in TypeScript, batteries included - supports user-defined templates!
 - **[LiteMCP](https://github.com/wong2/litemcp)** - A TypeScript framework for building MCP servers elegantly
 - **[mcp-framework](https://github.com/QuantGeekDev/mcp-framework)** - Fast and elegant Typescript framework for building MCP servers
